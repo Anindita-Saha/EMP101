@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anindita Saha — Portfolio
 
 A premium, single-page portfolio built on the same React 19 + Vite + Tailwind + Framer
@@ -126,3 +127,6 @@ vercel --prod
 
 Or import the GitHub repo at [vercel.com/new](https://vercel.com/new) — framework
 preset **Vite** is auto-detected, build command `npm run build`, output `dist`.
+=======
+# EMP101
+>>>>>>> 4d9747a9f5e616e3af56aa5ca8ecdc4dbc883057
